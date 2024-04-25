@@ -1,0 +1,9 @@
+<Leighton>
+<ConnectionString>
+	Data Source=LAPTOP-ENB95USD;Initial Catalog=dl;User Id=sa;Password=1234;connect timeout=1200;
+</ConnectionString>
+<ServerPath>
+	E:\
+</ServerPath>
+</Leighton>
+
